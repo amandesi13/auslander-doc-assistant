@@ -1,0 +1,7 @@
+services:
+  auslander-doc-assistant:
+    build: .
+    ports:
+      - "8200:8200"
+    environment:
+      PORT: "8200"
