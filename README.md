@@ -1,6 +1,10 @@
 # Auslander Doc Assistant
 
-[![CI](https://github.com/amandesi13/auslander-doc-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/amandesi13/auslander-doc-assistant/actions/workflows/ci.yml)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://www.python.org/)\n[![FastAPI](https://img.shields.io/badge/FastAPI-web%20UI-009688)](https://fastapi.tiangolo.com/)\n[![privacy: local-first](https://img.shields.io/badge/privacy-local--first-blueviolet)](#)\n[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)\n
+[![CI](https://github.com/amandesi13/auslander-doc-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/amandesi13/auslander-doc-assistant/actions/workflows/ci.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-web%20UI-009688)](https://fastapi.tiangolo.com/)
+[![privacy: local-first](https://img.shields.io/badge/privacy-local--first-blueviolet)](#)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Privacy-first document assistant for international students and newcomers in Germany.
 
